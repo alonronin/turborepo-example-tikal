@@ -4,6 +4,7 @@
   "main": "./dist/main.js",
   "license": "MIT",
   "scripts": {
+    "dev": "webpack --mode development --watch",
     "build": "webpack --mode=production"
   },
   "devDependencies": {
