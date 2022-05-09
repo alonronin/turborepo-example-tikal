@@ -4,6 +4,10 @@
     "apps/*",
     "libs/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alonronin/turborepo-example-tikal.git"
+  },
   "scripts": {
     "dev": "turbo run dev",
     "build": "turbo run build",
